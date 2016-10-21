@@ -1,0 +1,17 @@
+h1{
+	color: black;
+	font-size: 100px;
+	text-align: center;
+	font-family: 'Unica One', cursive;
+}
+
+h2{
+	font-family: 'Unica One', cursive;
+}
+
+body{
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/10/31/00/43/background-texture-1014963_960_720.jpg");
+}
+img{
+	width: 100%;
+}
